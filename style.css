@@ -81,6 +81,7 @@ img{
     border-left: 7px solid;
     border-image: linear-gradient(blue,salmon);
     border-image-slice: 1;
+    border-radius: 2%;
 }
 .right-div-sec3{
     width: 50%;
@@ -94,6 +95,7 @@ img{
     border-left: 7px solid;
     border-image: linear-gradient(tomato, orange);
     border-image-slice: 1;
+    border-radius: 2%;
 
 
 
