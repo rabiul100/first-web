@@ -40,4 +40,30 @@ img{
     border-radius: 5%;
     padding: 5px 8px;
     text-decoration: none;
+    padding-bottom: 15px;
+}
+
+
+.section2{
+    display: flex;
+    background-image:url(images/dream-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.left-div-sec2{
+    width: 50%;
+    padding-left:70px;
+    
+}
+.right-div2{
+    width: 50%;
+    padding-left: 300px;
+    padding-right: 50px;
+}
+.ankor2{
+    font-size: 20px;
+    background-image: linear-gradient(orange,tomato);
+    padding: 5px 8px;
+    text-decoration: none;
+    border-radius: 5px;
 }
